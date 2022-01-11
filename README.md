@@ -1,2 +1,0 @@
-# autofirejm.github.io
-website
