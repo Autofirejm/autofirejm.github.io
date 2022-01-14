@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <Title>Autofirejm | Welcome to Emodijango!</title>
+  <link rel="icon" type="image/x-icon" href="https://github.com/Autofirejm/autofirejm.github.io/blob/main/favicon.png?raw=true">
+  </head>
+  <body style="background-color:black">
+    <div style="background-color:orange; color:white; align-content:center;  text-align:center; font:message-box; padding:15px 10px 0px 10px; font-size:40px; border-style:solid; border-width:0px; border-color:orange"><b>Welcome to Emodijango!</b>
+  </div>
+    <div style="background-color:orange; color:white; align-content:center;  text-align:center; font:message-box; padding:5px 5px 5px 5px; font-size:40px; border-style:solid; border-width:5px; border-color:orange"><b>Autofirejm's Contributions</b>
+  </div>
+  <hr class="-half" style="background-color:white">
+  <button><a href="Autofirejm.github.io">Go to autofirejm's website</a></button>
+  </body>
+</hmtl>
