@@ -1,1 +1,29 @@
+#header {
+  background-color: DodgerBlue;
+  color: white;
+  align-content: center;
+  text-align: center;
+  font: message-box;
+  padding: 15px 10px 15px 10px;
+  font-size: 40px; 
+  border-style: solid; 
+  border-width: 20px; 
+  border-color: DodgerBlue;
+}
 
+.-half {
+  background-color: white;
+}
+
+.construction {
+  background-color:black;
+  color:white; 
+  align-content:center;  
+  text-align:center; 
+  font:message-box; 
+  padding:5px 1px 5px 1px; 
+  font-size:20px; 
+  border-style:solid; 
+  border-width:20px; 
+  border-color:yellow
+}
